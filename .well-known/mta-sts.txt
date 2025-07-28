@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: allsaintsecclesall-org-uk.mail.protection.outlook.com
+max_age: 604800
